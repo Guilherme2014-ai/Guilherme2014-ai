@@ -1,5 +1,5 @@
 <h1>Hello, World ♡</h1>
-<small>("Hello World !"), My name's Guilherme, and i study programming (Node, JavaScript, Database) but i'm learning more, to improve more and more !.</small>
+<small>console.log("Hello World !"), My name's Guilherme, and i study programming (Node, JavaScript, Database) but i'm learning more, to improve more and more !.</small>
 
 <br><br>
 
