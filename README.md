@@ -1,131 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="190" viewBox="0 0 350 190" fill="none">
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #ff6e96;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2 }
-  
+<h1>Hello, World ♡</h1>
+<small>("Hello World !"), My name's Guilherme, and i study programming (Node, JavaScript, Database) but i'm learning more, to improve more and more !.</small>
 
-          
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
-      }
-      to {
-        transform: translate(-5px, 5px) scale(1);
-      }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
-          * { animation-duration: 0s !important; animation-delay: 0s !important; }
-        </style>
+<br><br>
 
-        
+<img alt="Info" height="250" width="500" src="https://cdn.discordapp.com/attachments/837887007689670696/857701001892200488/1624562114353.png">
 
-        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="349" fill="#282a36" stroke-opacity="1"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java-Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
+  <img align="center" alt="VUE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
+  <img align="center" alt="NODE" height="30" width="70" src="https://www.mervcodes.com/wp-content/uploads/2017/12/nodejslogo.png">&nbsp;&nbsp;
+</div>
 
-        
-      <g data-testid="card-title" transform="translate(25, 35)">
-        <g transform="translate(0, 0)">
-      <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
-    </g>
-      </g>
-    
+<hr>
 
-        <g data-testid="main-card-body" transform="translate(0, 55)">
-          
-    <svg data-testid="lang-items" x="25">
-      
-      <mask id="rect-mask">
-        <rect x="0" y="0" width="300" height="8" fill="white" rx="5"/>
-      </mask>
-      
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="0" y="0" width="92.49" height="8" fill="#2b7489"/>
-        
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="92.49" y="0" width="67.59" height="8" fill="#563d7c"/>
-        
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="160.07999999999998" y="0" width="39.58" height="8" fill="#f1e05a"/>
-        
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="199.65999999999997" y="0" width="36.19" height="8" fill="#178600"/>
-        
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="235.84999999999997" y="0" width="35.90" height="8" fill="#e34c26"/>
-        
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="271.74999999999994" y="0" width="26.33" height="8" fill="#3572A5"/>
-        
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="298.0799999999999" y="0" width="11.71" height="8" fill="#858585"/>
-        
-          <rect mask="url(#rect-mask)" data-testid="lang-progress" x="299.7899999999999" y="0" width="10.21" height="8" fill="#355570"/>
-        
-      
-    <g transform="translate(0, 25)">
-      <circle cx="5" cy="6" r="5" fill="#2b7489"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        TypeScript 30.83%
-      </text>
-    </g>
-  
-    <g transform="translate(150, 25)">
-      <circle cx="5" cy="6" r="5" fill="#563d7c"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        CSS 22.53%
-      </text>
-    </g>
-  
-    <g transform="translate(0, 50)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        JavaScript 13.19%
-      </text>
-    </g>
-  
-    <g transform="translate(150, 50)">
-      <circle cx="5" cy="6" r="5" fill="#178600"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        C# 12.06%
-      </text>
-    </g>
-  
-    <g transform="translate(0, 75)">
-      <circle cx="5" cy="6" r="5" fill="#e34c26"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        HTML 11.97%
-      </text>
-    </g>
-  
-    <g transform="translate(150, 75)">
-      <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        Python 8.78%
-      </text>
-    </g>
-  
-    <g transform="translate(0, 100)">
-      <circle cx="5" cy="6" r="5" fill="#858585"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        GAP 0.57%
-      </text>
-    </g>
-  
-    <g transform="translate(150, 100)">
-      <circle cx="5" cy="6" r="5" fill="#355570"/>
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">
-        GDScript 0.07%
-      </text>
-    </g>
-  
-    
-    </svg>
-  
-        </g>
-      </svg>
+<div>
+    <img align="center" alt="Mongodb" height="50" width="40" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;
+    <img align="center" alt="MySQL" height="63" width="75" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
+</div>
+
+<br><br>
+
+<a href="https://instagram.com/jovemprogramador16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
