@@ -3,7 +3,7 @@
 
 <br><br>
 
-<img alt="Info" height="250" width="500" src="https://cdn.discordapp.com/attachments/837887007689670696/857701001892200488/1624562114353.png">
+<img alt="Info" height="250" width="500" src="https://cdn.discordapp.com/attachments/857701858655076402/858827667229638706/Apresentacao_Colorida_em_Neon_de_Ascensao_das_Redes_Sociais.png">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java-Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
