@@ -1,5 +1,8 @@
 <h1>Hello, World ♡</h1>
-<small>console.log("Hello World !"), My name's Guilherme, and i study programming (Node, JavaScript, Database) but i'm learning more, to improve more and more !.</small>
+<p>A Programming Student.</p>
+<p>16 Years Age.</p>
+<p>Brazil 🇧🇷.</p>
+<p>console.log("Java Script is Life <3")</p>
 
 <br><br>
 
