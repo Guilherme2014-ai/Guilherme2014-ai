@@ -1,28 +1,35 @@
-<h1>Hello, World ♡</h1>
-<p>A Programming Student.</p>
-<p>16 Years Age.</p>
-<p>Brazil 🇧🇷.</p>
-<p>console.log("Java Script is Life <3")</p>
+### Oie devs 👋
 
-<br><br>
+Gosto de criar ótimas Aplicações e ajudar outras pessoas a fazer o mesmo.
 
-<img alt="Info" height="250" width="500" src="https://cdn.discordapp.com/attachments/857701858655076402/858827667229638706/Apresentacao_Colorida_em_Neon_de_Ascensao_das_Redes_Sociais.png">
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java-Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
-  <img align="center" alt="VUE" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png">
-  <img align="center" alt="NODE" height="30" width="70" src="https://www.mervcodes.com/wp-content/uploads/2017/12/nodejslogo.png">&nbsp;&nbsp;
-</div>
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-<hr>
+```kotlin
 
-<div>
-    <img align="center" alt="Mongodb" height="50" width="40" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;
-    <img align="center" alt="MySQL" height="63" width="75" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png">
-</div>
+ var me = {
+   name: "Guilherme",
+   acknowledgements: "'Back-end' and DBS",
 
-<br><br>
+   primarySkillset: "GIT SQL HTML CSS JS API'S DBS",
+   language: ("Java Script")
+}
+```
 
-<a href="https://instagram.com/jovemprogramador16/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+## **Linguagens e Ferramentas:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+<br>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Guilherme Henrique](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-0bb264204/)](https://www.linkedin.com/in/guilherme-henrique-0bb264204/)
+[![guilhermehenrique78383](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:guilhermehenrique78383@gmail.com)
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="21"></a> 
