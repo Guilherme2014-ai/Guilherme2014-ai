@@ -10,7 +10,7 @@ Gosto de criar ótimas Aplicações e ajudar outras pessoas a fazer o mesmo.
 
  var me = {
    name: "Guilherme",
-   acknowledgements: "'Back-end' and DBS",
+   acknowledgements: "'Back-end' e DBS",
 
    primarySkillset: "GIT SQL HTML CSS JS API'S DBS",
    language: ("Java Script")
