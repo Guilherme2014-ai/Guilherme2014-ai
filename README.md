@@ -9,11 +9,11 @@ Gosto de criar ótimas Aplicações e ajudar outras pessoas a fazer o mesmo.
 ```kotlin
 
  var me = {
-   name: "Guilherme",
-   acknowledgements: "'Back-end' e DBS",
+   Name: "Guilherme",
+   Work with: "Back-end",
 
    primarySkillset: "GIT SQL HTML CSS JS API'S DBS",
-   language: "Java Script" 
+   language: "Java Script & Type Script" 
 }
 ```
 
