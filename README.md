@@ -1,5 +1,9 @@
 ### Oie devs 👋
 
+<h1 align="center">
+  <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/masterclass.png" width="120px" />
+</h1>
+
 Gosto de criar ótimas Aplicações e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
