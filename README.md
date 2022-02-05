@@ -14,10 +14,10 @@ Gosto de criar ótimas Aplicações e ajudar outras pessoas a fazer o mesmo.
 
  var me = {
    Name: "Guilherme",
-   WorkWith: "Back-end",
+   WorkWith: "Back-end & Front-end",
 
    primarySkillset: "GIT SQL HTML CSS JS API'S DBS",
-   language: "Java Script & Type Script" 
+   language: "Java Script & Type Script(Both Sides)" 
 }
 ```
 
