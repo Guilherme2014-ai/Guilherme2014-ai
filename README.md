@@ -16,7 +16,7 @@ Gosto de criar ótimas Aplicações e ajudar outras pessoas a fazer o mesmo.
    Name: "Guilherme",
    WorkWith: "Back-end & Front-end",
 
-   primarySkillset: "GIT SQL HTML CSS JS API'S DBS",
+   primarySkillset: "GIT SQL HTML CSS JS TS REACTJS API'S DBS JEST(TESTS) DOCKER",
    language: "Java Script & Type Script(Both Sides)" 
 }
 ```
