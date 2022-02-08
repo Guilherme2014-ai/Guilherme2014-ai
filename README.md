@@ -25,10 +25,16 @@ Gosto de criar ótimas Aplicações e ajudar outras pessoas a fazer o mesmo.
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://www.pngkit.com/png/full/66-667065_js-club-new-balance-png-logo-node-js.png"></code>
+<code><img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3"></code>
+<code><img height="30" src="https://img.portalgsti.com.br/wEI6E7oEXKKpMkAB3o6BxykteOU=/480x250/https://www.portalgsti.com.br/media/uploads/article/2016/08/01/curso-sql.png"></code>
+<code><img height="30" src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 <br>
 
